@@ -13,3 +13,4 @@ services:
               count: all
               capabilities: [gpu]
     runtime: nvidia
+    restart: always
